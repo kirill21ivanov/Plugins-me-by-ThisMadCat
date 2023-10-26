@@ -1,0 +1,10 @@
+name: ThisMadCat
+main: ThisMadCat\TMC
+
+api: 3.6.4
+version: 1.11.0
+author: ThisMadCat
+site: vk.com/kivanov20040
+commands:
+ me:
+  default: true
